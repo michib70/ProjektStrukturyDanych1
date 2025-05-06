@@ -1,0 +1,14 @@
+Dynamiczna pushFront: 2615525 ns
+Wiazana pushFront: 104 ns
+Dynamiczna pushBack: 36 ns
+Wiazana pushBack: 80 ns
+Dynamiczna insert: 1232375 ns
+Wiazana insert: 5230352 ns
+Dynamiczna popFront: 2504641 ns
+Wiazana popFront: 72 ns
+Dynamiczna popBack: 32 ns
+Wiazana popBack: 9663203 ns
+Dynamiczna deleteAtIndex: 1265737 ns
+Wiazana deleteAtIndex: 5210551 ns
+Dynamiczna search (90): 248 ns
+Wiazana search (90): 10533265 ns
